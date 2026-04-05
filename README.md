@@ -154,12 +154,12 @@ Repeat customers:
 ## 📊 Dashboard & Analysis
 
 ### Executive Overview
-![Executive Dashboard](images/dashboard1.png)
+![Executive Dashboard](images/Dashboard1.png)
 
 ---
 
 ### Operations & Seller Performance
-![Operations Dashboard](images/dashboard2.png)
+![Operations Dashboard](images/Dashboard2.png)
 
 ---
 

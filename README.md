@@ -31,9 +31,10 @@ However, a deeper look revealed a structural issue:
 
 ## 📂 Dataset Source
 
-- 📊 **Olist E-Commerce Dataset (Kaggle)**
+- 📊 **Olist E-Commerce Dataset (Kaggle)** - 
 - Includes:
   - Orders
+  - OrderItems
   - Customers
   - Sellers
   - Reviews
@@ -108,3 +109,146 @@ Designed dashboards for different business functions:
 ---
 
 ## 🔗 Core Insight (Causal Chain)
+Seller Dispatch Delay → SLA Breach → Poor Reviews → Customer Drop-off
+
+
+---
+
+## 📈 Key Findings
+
+### 1. Seller Dispatch Bottleneck
+
+- 📉 **10.25% SLA breach rate**
+- 🚚 Sellers took **30–61 days** to dispatch orders
+- ❌ Shipping distance was NOT the main issue
+
+👉 Root problem: **Seller-side inefficiency**
+
+---
+
+### 2. Delivery Delays Impact Customer Experience
+
+- ⭐ Delayed orders had **~100% higher poor review rates**
+- 📉 Direct impact on trust and satisfaction
+
+👉 Insight:
+> Every delay is not just operational—it’s a **retention killer**
+
+---
+
+### 3. The “Leaky Bucket” Problem
+
+- 🔴 **87% of customers = one-time buyers**
+- 🟢 Only ~13% returned
+
+Repeat customers:
+- Spent more (higher AOV)
+- Gave better reviews
+
+👉 Business was:
+> Good at acquisition ❌  
+> Bad at retention ❌  
+
+---
+
+## 📊 Dashboard & Analysis
+
+### Executive Overview
+![Executive Dashboard](images/dashboard1.png)
+
+---
+
+### Operations & Seller Performance
+![Operations Dashboard](images/dashboard2.png)
+
+---
+
+### Customer Experience Insights
+![Customer Dashboard](images/dashboard3.png)
+
+---
+
+## 📉 Business Impact Potential
+
+| Metric | Current | Estimated Improvement |
+|--------|--------|----------------------|
+| SLA Breach Rate | 10.25% | ~6–7% |
+| Poor Experience Rate | 19.1% | ~11–13% |
+| Repeat Customer Rate | 12.4% | ~14–15% |
+
+---
+
+## 🚀 Strategic Recommendations
+
+### 1. Seller Tiering System (Highest Impact)
+- Classify sellers: **Gold / Red**
+- Penalize high dispatch delays  
+- Incentivize fast fulfillment  
+
+---
+
+### 2. Retention Triggers
+- Offer discounts ONLY after successful delivery  
+- Reinforce positive first experience  
+
+---
+
+### 3. High-Value Order Protection
+- Focus on top **25% high-value orders (>R$140)**  
+- Apply proactive monitoring  
+
+---
+
+## ⚠️ Critical Learning
+
+### Initial Hypothesis:
+- Geography (distance) was causing delays  
+
+### Reality:
+- Weak correlation between distance and delay  
+- Strong correlation with **seller dispatch time**
+
+> 💡 **Lesson:**  
+> Good analysis is not about proving your assumptions—  
+> it’s about following the data, even when it contradicts you.
+
+---
+
+## 📌 Project Limitations
+
+- Raw datasets not included due to size constraints  
+- Analysis performed in Excel (scalability can be improved using SQL/Python in future iterations)
+
+---
+
+## 📝 Full Case Study
+
+👉 Read the complete breakdown here:  
+**[Add Medium Part 1 Link]**
+
+---
+
+## 📂 Project & Connect
+
+- 🔗 **GitHub:** This repository  
+- 🎯 **Portfolio:** [Add Portfolio Link]  
+- 💼 **LinkedIn:** [Add LinkedIn Link]  
+
+---
+
+## 💼 Open to Opportunities
+
+I’m currently looking for **entry-level Data Analyst / Business Analyst roles**.
+
+I focus on:
+- Structured problem-solving  
+- Business-driven analysis  
+- Turning messy data into actionable insights  
+
+If you're hiring or building a data-driven team, feel free to connect.
+
+---
+
+## 💬 Let’s Discuss
+
+What’s a business problem you uncovered from data that looked “normal” at first—but wasn’t?

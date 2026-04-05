@@ -1,4 +1,4 @@
-# 📊 Olist E-Commerce Analysis: Retention Leak Case Study
+# 📊 E-Commerce Operations & Retention Optimization Analysis
 
 ## 🔍 Overview
 This project is a deep-dive analysis of a Brazilian e-commerce marketplace dataset (Olist) to understand a critical business problem: **low customer retention**.

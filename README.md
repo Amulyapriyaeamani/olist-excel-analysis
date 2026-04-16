@@ -224,15 +224,15 @@ Repeat customers:
 ## 📝 Full Case Study
 
 👉 Read the complete breakdown here:  
-**[Add Medium Part 1 Link]**
+**https://medium.com/@amulyapriyaeamani441/87-of-customers-never-returned-an-e-commerce-case-study-part-1-5143b8ba0225**
 
 ---
 
 ## 📂 Project & Connect
 
-- 🔗 **GitHub:** This repository  
-- 🎯 **Portfolio:** [Add Portfolio Link]  
-- 💼 **LinkedIn:** [Add LinkedIn Link]  
+- 🔗 **GitHub:** This repository
+- 📂 **Excel File:** https://1drv.ms/x/c/65b85ec81694cb41/IQD868NdrZnSSp1zYvXtggBvASIvcVFfZ5Tif6wbkni7eM8?e=xzGXbF 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/amulyapriyaeamani/
 
 ---
 
